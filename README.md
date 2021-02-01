@@ -1,4 +1,5 @@
-### Hi there 👋
+A self-taught, full stackoverflow 😉 and freelance web developer with 2+ years of experience, that developed Yellow Pages Afghanistan and Hikeventures. I'm Laravel Expert and love to work in the frontend also.
+
 
 <!--
 **billalsiddiqi/billalsiddiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
