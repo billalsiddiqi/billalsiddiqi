@@ -1,4 +1,4 @@
-A self-taught, full stackoverflow 😉 and freelance web developer with 2+ years of experience, that developed Yellow Pages Afghanistan and Hikeventures. I'm Laravel Expert and love to work in the frontend also.
+A self-taught, full stackoverflow 😉 and freelance web developer with 2+ years of experience, that developed yellowpages.af and hikeven.com. I'm Laravel Expert and love to work in the frontend also.
 
 
 <!--
