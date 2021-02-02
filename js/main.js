@@ -3,6 +3,9 @@
  	easing: 'slide'
  });
 
+ 
+
+
 (function($) {
 
 	"use strict";
@@ -43,7 +46,7 @@
 
    var burgerMenu = function() {
 
-		$('.js-colorlib-nav-toggle').on('click', function(event){
+		$('.js-bs-nav-toggle').on('click', function(event){
 			event.preventDefault();
 			var $this = $(this);
 
@@ -62,13 +65,13 @@
 	var mobileMenuOutsideClick = function() {
 
 		$(document).click(function (e) {
-	    var container = $("#colorlib-aside, .js-colorlib-nav-toggle");
+	    var container = $("#bs-aside, .js-bs-nav-toggle");
 	    if (!container.is(e.target) && container.has(e.target).length === 0) {
 
 	    	if ( $('body').hasClass('offcanvas') ) {
 
     			$('body').removeClass('offcanvas');
-    			$('.js-colorlib-nav-toggle').removeClass('active');
+    			$('.js-bs-nav-toggle').removeClass('active');
 			
 	    	}
 	    	
@@ -79,7 +82,7 @@
 			if ( $('body').hasClass('offcanvas') ) {
 
     			$('body').removeClass('offcanvas');
-    			$('.js-colorlib-nav-toggle').removeClass('active');
+    			$('.js-bs-nav-toggle').removeClass('active');
 			
 	    	}
 		});
