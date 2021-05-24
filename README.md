@@ -1,4 +1,4 @@
-A self-taught, full stackoverflow 😉 and freelance web developer with 2+ years of experience, that developed yellowpages.af and hikeven.com. I'm Laravel specialist and love to work in the frontend also.
+A Self-taught, Full-stack and Freelance Web Developer with 2+ years of experience, that developed yellowpages.af and hikeven.com. I'm Laravel specialist and enjoy working with VueJS.
 I’m currently learning new technologies.
 You can find more about me here: billalsiddiqi.github.io
 
